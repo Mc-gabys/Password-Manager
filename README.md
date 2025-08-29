@@ -37,7 +37,12 @@ A simple but secure **password manager** built with **Python** and **PyQt6**, fe
 
 ---
 
-## Support me on KoFi ❤️
+## ⚠️ Security
+Please read the security file [here](SECURITY.md)
+
+---
+
+## ❤️ Support me on KoFi
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N61K5R2A)
 
 ---
