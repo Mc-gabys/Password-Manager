@@ -1,0 +1,5 @@
+pyqt6==6.9.1
+cryptography==44.0.1
+pyotp==2.9.0
+qrcode==8.2
+zxcvbn==4.5.0
