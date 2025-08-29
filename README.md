@@ -22,7 +22,7 @@ A simple but secure **password manager** built with **Python** and **PyQt6**, fe
 ---
 
 ## 🛠️ How to use
-- Download the repo:
+- Clone the repository:
   ```bash
   git clone https://github.com/Mc-gabys/Password-Manager
 - Go to the directory:
